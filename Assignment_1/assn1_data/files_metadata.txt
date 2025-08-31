@@ -1,0 +1,122 @@
+
+========= File 1 info =========
+
+file_name: 1980
+file_type: audio/mpeg
+file_size_in_mb: 44.76
+duration_in_seconds: 1958.35
+
+========= File 2 info =========
+
+file_name: 1980
+file_type: video/mp4
+file_size_in_mb: 126.18
+duration_in_seconds: 1958.46
+
+========= File 3 info =========
+
+file_name: 1980
+file_type: text/plain
+file_size_in_mb: 0.02
+total_word_count: 3411
+
+========= File 4 info =========
+
+file_name: 1990
+file_type: audio/mpeg
+file_size_in_mb: 49.3
+duration_in_seconds: 2157.24
+
+========= File 5 info =========
+
+file_name: 1990
+file_type: video/mp4
+file_size_in_mb: 139.1
+duration_in_seconds: 2157.37
+
+========= File 6 info =========
+
+file_name: 1990
+file_type: text/plain
+file_size_in_mb: 0.02
+total_word_count: 3727
+
+========= File 7 info =========
+
+file_name: face-off
+file_type: image/jpeg
+file_size_in_mb: 10.05
+image_width: 4875
+image_height: 6488
+
+========= File 8 info =========
+
+file_name: guy-fawkes
+file_type: image/jpeg
+file_size_in_mb: 2.1
+image_width: 4928
+image_height: 3264
+
+========= File 9 info =========
+
+file_name: jaegermeister
+file_type: image/jpeg
+file_size_in_mb: 2.8
+image_width: 2441
+image_height: 3340
+
+========= File 10 info =========
+
+file_name: press-conference-1
+file_type: image/jpeg
+file_size_in_mb: 1.51
+image_width: 3808
+image_height: 2534
+
+========= File 11 info =========
+
+file_name: press-conference-2
+file_type: image/jpeg
+file_size_in_mb: 0.24
+image_width: 1024
+image_height: 681
+
+========= File 12 info =========
+
+file_name: press-conference-3
+file_type: image/jpeg
+file_size_in_mb: 1.38
+image_width: 3989
+image_height: 2654
+
+========= File 13 info =========
+
+file_name: press-conference-4
+file_type: image/jpeg
+file_size_in_mb: 0.23
+image_width: 1114
+image_height: 898
+
+========= File 14 info =========
+
+file_name: shampoo
+file_type: image/jpeg
+file_size_in_mb: 2.96
+image_width: 2448
+image_height: 3372
+
+========= File 15 info =========
+
+file_name: super-mario
+file_type: image/jpeg
+file_size_in_mb: 2.66
+image_width: 1188
+image_height: 1796
+
+========= File 16 info =========
+
+file_name: taped-rugs
+file_type: image/jpeg
+file_size_in_mb: 0.96
+image_width: 1186
+image_height: 1190
