@@ -1,0 +1,17 @@
+contractions==0.1.73
+fastopic==1.0.1
+gensim==4.3.3
+google_api_python_client==2.179.0
+matplotlib==3.5.1
+nltk==3.9.1
+numpy==1.21.5
+openai==1.101.0
+pandas==2.3.2
+protobuf==3.12.4
+pydub==0.25.1
+pygame==2.1.2
+scikit_learn==1.3.2
+seaborn==0.13.2
+topmost==1.0.2
+transformers==4.55.4
+wordcloud==1.9.4
